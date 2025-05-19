@@ -1,6 +1,6 @@
 # Experiment 2: DDL Commands
 ## Name: JAWAHAR RAJ N
-## Reg.no:21223240057
+## Reg.no:212223240057
 ## AIM
 To study and implement DDL commands and different types of constraints.
 
